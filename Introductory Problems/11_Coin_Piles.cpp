@@ -28,7 +28,7 @@ void solve()
     double alpha = x_0 - (ll)x_0;
     double beta = y_0 - (ll)y_0;
 
-    if(alpha == 0.0 && beta == 0.0)
+    if(alpha == 0.0 && beta == 0.0 && x_0*y_0>=0) // x_0 and y_0 should be integer with same sign
         cout << "YES" << endl ;
     else
         cout << "NO" << endl;
