@@ -1,4 +1,4 @@
-#List of Problems not attempted in this Section -
+# List of Problems not attempted in this Section:
 
 - [ ] Problem 8 : Two Sets
 - [ ] Problem 14 : Tower of Hanoi
