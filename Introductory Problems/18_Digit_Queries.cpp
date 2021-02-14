@@ -25,7 +25,7 @@ void solve()
 {
 
     //ll sum =0;
-    //I cached the values of different slabs using the commented loop below and stored it into a set.
+    //I cached the values of different slab values using the commented loop below into a set for improving the time of execution.
     set <ll> slab {9LL, 189LL, 2889LL, 38889LL, 488889, 5888889, 68888889, 788888889, 8888888889, 98888888889LL, 1088888888889LL, 11888888888889LL, 128888888888889LL, 1388888888888889LL, 14888888888888889LL, 158888888888888889LL};
 
     // for(int i=1; i<=16; i++)
